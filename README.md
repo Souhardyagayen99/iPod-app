@@ -57,5 +57,5 @@ Integrated Development Environment: VSCode
 
 ## Deployment
 
-To run the app: https://shubhampoddar01.github.io/iPod-Web-App/
+To run the app: https://souhardyagayen99.github.io/iPod-app/
 
