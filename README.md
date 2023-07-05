@@ -30,13 +30,13 @@ Enjoy :)
      
 
 Packages:
-firebase
-jquery
-react
-react-dom
-react-helmet
-react-scripts
-zingtouch
+firebase,
+jquery,
+react,
+react-dom,
+react-helmet,
+react-scripts,
+zingtouch,
 web-vitals
 
 Library: ReactJS
