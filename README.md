@@ -26,6 +26,35 @@ Run 'npm start'.
 
 Enjoy :)
 
+## 🔨 Tools Used
+     
+
+Packages:
+firebase
+jquery
+react
+react-dom
+react-helmet
+react-scripts
+zingtouch
+web-vitals
+
+Library: ReactJS
+
+Version Control System: Git
+
+VCS Hosting: GitHub
+
+Programming / Scripting: JavaScript
+
+Front-End: HTML, CSS
+
+Runtime Environment: NodeJS
+
+Integrated Development Environment: VSCode
+
+
+
 ## Deployment
 
 To run the app: https://shubhampoddar01.github.io/iPod-Web-App/
