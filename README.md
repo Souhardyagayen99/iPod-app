@@ -14,6 +14,17 @@ Built an iPod Web App using React.js.
 - A sub menu is inside Menu like in Music option, it has sub menu with options 'All songs', 'Artists' etc.
 - Inside settings menu, theme can be changed to dark or to light by clicking the center button.
 
+## 🔥 Getting Started With The Project
+
+Fork the Project in your Repository.
+
+Clone the Forked Repository in your Local System.
+
+Run 'npm install'.
+
+Run 'npm start'.
+
+Enjoy :)
 
 ## Deployment
 
